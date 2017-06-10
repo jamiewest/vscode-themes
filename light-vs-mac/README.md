@@ -7,11 +7,10 @@ This has been much more of an undertaking than I expected, however I am commited
 ![Awesome icon was borrowed without permission from Vaclav Vancura, I will remove if requested :)](https://dribbble.com/shots/3100068-Visual-Studio-for-Mac)
 
 ### Sample 1
-![](https://raw.githubusercontent.com/jamiewest/vscode-themes/master/light-vs-mac/images/Sample1.png)
-
+![](https://raw.githubusercontent.com/jamiewest/vscode-themes/master/light-vs-mac/images/Screen1.png)
 
 ### Sample 2
-![](https://raw.githubusercontent.com/jamiewest/vscode-themes/master/light-vs-mac/images/Sample2.png)
+![](https://raw.githubusercontent.com/jamiewest/vscode-themes/master/light-vs-mac/images/Screen2.png)
 
 ### Sample 3
-![](https://raw.githubusercontent.com/jamiewest/vscode-themes/master/light-vs-mac/images/Sample3.png)
+![](https://raw.githubusercontent.com/jamiewest/vscode-themes/master/light-vs-mac/images/Screen3.png)
