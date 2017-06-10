@@ -4,8 +4,6 @@ This has been much more of an undertaking than I expected, however I am commited
 
 [Based off of the light theme over at MonoDevelop](https://github.com/mono/monodevelop/blob/master/main/src/core/MonoDevelop.Ide/MonoDevelop.Ide.Editor.Highlighting/themes/LightStyle.json)
 
-[Awesome icon was borrowed without permission from Vaclav Vancura, I will remove if requested :)](https://dribbble.com/shots/3100068-Visual-Studio-for-Mac)
-
 ### Sample 1
 ![](https://raw.githubusercontent.com/jamiewest/vscode-themes/master/light-vs-mac/images/Screen1.png)
 
