@@ -1,22 +1,17 @@
 # Visual Studio for Mac Light Theme
 
-A set of themes based on the tomorrow themes from [Colorsublime/Colorsublime-Themes](https://github.com/Colorsublime/Colorsublime-Themes).
+This has been much more of an undertaking than I expected, however I am commited to porting the essence of this theme into VS Code. Please leave comments, concerns, or other feedback below or better yet as an issue on the repo! 
 
-## Tomorrow
+![Based off of the light theme over at MonoDevelop](https://github.com/mono/monodevelop/blob/master/main/src/core/MonoDevelop.Ide/MonoDevelop.Ide.Editor.Highlighting/themes/LightStyle.json)
 
-![](https://raw.githubusercontent.com/Microsoft/vscode-themes/master/tomorrow/images/tomorrow-preview.png)
+![Awesome icon was borrowed without permission from Vaclav Vancura, I will remove if requested :)](https://dribbble.com/shots/3100068-Visual-Studio-for-Mac)
 
-## Tomorrow Night
+### Sample 1
+![](https://raw.githubusercontent.com/jamiewest/vscode-themes/master/light-vs-mac/images/Sample1.png)
 
-![](https://raw.githubusercontent.com/Microsoft/vscode-themes/master/tomorrow/images/tomorrow-night-preview.png)
 
-## Tomorrow Night Bright
+### Sample 2
+![](https://raw.githubusercontent.com/jamiewest/vscode-themes/master/light-vs-mac/images/Sample2.png)
 
-![](https://raw.githubusercontent.com/Microsoft/vscode-themes/master/tomorrow/images/tomorrow-night-bright-preview.png)
-
-## Tomorrow Night Eighties
-
-![](https://raw.githubusercontent.com/Microsoft/vscode-themes/master/tomorrow/images/tomorrow-night-eighties-preview.png)
-
-# LICENSE
-[MIT](https://github.com/Microsoft/vscode-themes/blob/master/LICENSE.txt)
+### Sample 3
+![](https://raw.githubusercontent.com/jamiewest/vscode-themes/master/light-vs-mac/images/Sample3.png)

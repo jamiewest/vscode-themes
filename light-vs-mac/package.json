@@ -2,7 +2,7 @@
     "name": "theme-light-vs-mac",
     "displayName": "Visual Studio for Mac Light Theme",
     "description": "Light theme design based on Visual Studio for Mac.",
-    "version": "0.2.0",
+    "version": "0.4.4",
     "publisher": "jamiewest",
     "engines": {
         "vscode": "^1.12.x"
@@ -23,6 +23,7 @@
         "color": "#ECF0F1",
         "theme": "light"
     },
+    "icon": "icon.svg",
     "contributes": {
         "themes": [
             {
